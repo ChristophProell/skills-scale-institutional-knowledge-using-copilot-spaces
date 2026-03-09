@@ -16,6 +16,14 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
 
+## Cross-functional Role Involvement in Planning
+- **UX Designer:** Engage as soon as user-facing features are in scope. Begin discovery, research, and wireframing in parallel with backlog refinement.
+- **QA Lead:** Participate in backlog refinement to review acceptance criteria, identify edge cases, and draft the initial test plan.
+- **DevOps Engineer:** Consult on environment strategy, CI/CD pipeline readiness, and infrastructure requirements for the planned scope.
+- **Business Analyst:** Lead requirements elaboration, facilitate stakeholder workshops, and ensure acceptance criteria are unambiguous before sprint planning.
+
+For role responsibilities and a full engagement checklist, see [octoacme-roles-and-personas.md](octoacme-roles-and-personas.md) and [octoacme-role-interactions-and-raci.md](octoacme-role-interactions-and-raci.md).
+
 ## Backlog Item Template
 - Title:
 - Description:

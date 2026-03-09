@@ -4,9 +4,14 @@
 Guidance for managing day-to-day execution and tracking progress toward project milestones.
 
 ## Team Rhythm
-- Daily standups (15 min) — focus on progress, blockers, dependencies
+- Daily standups (15 min) — focus on progress, blockers, dependencies; facilitated by the **Scrum Master**
 - Weekly delivery sync — show progress, updates, and flagged risks
 - Demo/Review at the end of each sprint or milestone
+
+> **Scrum Master** leads sprint ceremonies (planning, standups, reviews, retrospectives) and escalates impediments to the PM when needed.
+> **QA Lead** participates in sprint reviews to report quality metrics and confirm acceptance criteria are met before items are marked Done.
+
+For role responsibilities, see [octoacme-roles-and-personas.md](octoacme-roles-and-personas.md).
 
 ## Workflows
 - Use the project board (e.g., GitHub Projects) with columns: Backlog, Ready, In Progress, In Review, QA, Done
