@@ -15,6 +15,11 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Rollback / mitigation plan documented
 - Smoke tests prepared
 
+> **DevOps Engineer** owns deployment execution, pipeline validation, and post-deploy monitoring.
+> **QA Lead** confirms release readiness, reviews smoke test results, and approves quality sign-off.
+
+For role responsibilities and a deployment RACI, see [octoacme-roles-and-personas.md](octoacme-roles-and-personas.md) and [octoacme-role-interactions-and-raci.md](octoacme-role-interactions-and-raci.md).
+
 ## Deployment Checklist
 - [ ] Deployment window scheduled (if needed)
 - [ ] Backup or snapshot (if applicable)
